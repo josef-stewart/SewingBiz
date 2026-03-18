@@ -1,0 +1,6 @@
+@SewingBizApi_HostAddress = http://localhost:5080
+
+GET {{SewingBizApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
